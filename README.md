@@ -1,6 +1,6 @@
 ![CI](https://github.com/aweeraman/odyssey/workflows/CI/badge.svg) [![Coverity Scan Build Status](https://scan.coverity.com/projects/20852/badge.svg)](https://scan.coverity.com/projects/minos)
 
-# Odyssey - an experimental operating system for x86 and ARM
+# oneOS built with Odyssey - an experimental operating system for x86 and ARM
 
 ![Odyssey running in Qemu](https://raw.githubusercontent.com/aweeraman/odyssey/master/docs/img/odyssey.png "Odyssey running in Qemu")
 
